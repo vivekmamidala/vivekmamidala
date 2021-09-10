@@ -1,4 +1,4 @@
-- 👋 Hi, I’m vive kmamidala
+- 👋 Hi, I’m Vivek Mamidala
 - 👀 I’m interested in Algorithms, Data Structures and Problem Solving
 - 🌱 I’m currently learning Recursion and Dynamic Programming
 - 💞️ I’m looking to collaborate on solving any real world problems.
